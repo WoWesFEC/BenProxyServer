@@ -10,6 +10,7 @@ body{
 
 #pics{
     margin-top: 10%;
+    object-fit: scale-down;
 }
 
 #tom{
